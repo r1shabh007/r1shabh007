@@ -22,5 +22,5 @@ Here's a bit about me:
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-1b1b19?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agarwalrishabh.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-aga/)
-[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white)]([https://agarwalrishabh.com/Agarwal_Resume.pdf](https://github.com/r1shabh007/r1shabh007/blob/main/Rishabh%20Resume.pdf))
+[![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/r1shabh007/r1shabh007/blob/116650111589116e639cfb6f5b4d5c1224ec0569/Rishabh%20Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabh.aga2@gmail.com)
